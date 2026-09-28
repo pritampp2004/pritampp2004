@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm PRITAM PATRA. I'm Chemical Engineer. I'm also an AI/ML Developer
 
 # 💫 About Me:
 🚀 Currently Working On:<br> AI/ML, Data Analytics, and Power BI projects focused on solving real-world business, industrial, and sustainability challenges.<br><br>🤝 Looking to Collaborate On:<br> Machine Learning, Data Science, Business Intelligence, Open-Source Development, and Innovation Projects.<br><br>💡 Looking For Help With:<br> Full-time internships, industry mentorship, Azure Cloud technologies, MLOps, and advanced analytics solutions.<br><br>📚 Currently Learning:<br> Microsoft Azure, Generative AI, NLP, Advanced Power BI, and scalable AI/ML applications.<br><br>🎯 Ask Me About:<br> AI/ML • Data Analytics • Power BI • Web Development • Industrial Internships • Chemical Engineering • Sustainability • Career Development
